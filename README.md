@@ -4,7 +4,8 @@ A Flutter application showcasing a modern coupon dashboard interface for SpaceZ,
 
 ## 📱 Screenshot
 
-![Coupon Dashboard Screen](screenshot.png)
+<img width="1290" height="2796" alt="Simulator Screenshot - iPhone 16 Plus - 2025-11-18 at 22 16 05" src="https://github.com/user-attachments/assets/127cfff4-3977-46cc-bb45-c5d9eea6ec55" />
+
 
 ##  Features
 
@@ -71,7 +72,7 @@ flutter pub get
 flutter run
 ```
 
-## 🎨 Design Highlights
+##  Design Highlights
 
 - **Color Palette**: Warm earth tones with primary color `#9A5632` creating a cohesive brand experience
 - **Typography**: Custom text theme with carefully defined font weights and sizes
@@ -97,7 +98,7 @@ The app launches directly to the Coupon Dashboard page, displaying:
 - Navigation actions currently display snackbar messages as placeholders
 - The app uses a clean architecture approach with separation of concerns
 
-## 👨 Development
+##  Development
 
 Built with Flutter following best practices:
 - Feature-based folder structure
@@ -107,4 +108,4 @@ Built with Flutter following best practices:
 
 ---
 
-**Built for SpaceZ** 🚀
+**Built for SpaceZ By Firas Kola** 
